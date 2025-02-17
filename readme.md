@@ -3,11 +3,11 @@
 The spirit of this assignment is to do everything as well as you can from scratch. 
 I.e. if there is functionality-built in, that will solve the problem quickly, then that is not what we want you to do. Use your skill and knowledge and the concepts we have been covering to solve these tasks (Under no circumstances use Linq or similar solutions).
 
-Your judgment is an important part of your submission, so it is up to you to decide when your submission is good enough. 
+Your judgment is an important part of your submission, so it is up to you to decide when your submission is good enough. Remember that there is more to the assignments than just solving them outright. Consider if different paradigms should be applied. 
 
 
 >**Submit URL to your git repository.**   
-Note that moving forward, we are stricter about the little things.   
+Note that moving forward, we are stricter about the little things.
 Make it work, make it right, make it better. In that order.
 
 
